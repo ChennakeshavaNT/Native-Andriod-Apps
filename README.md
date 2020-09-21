@@ -17,7 +17,7 @@ This Repository contains the all the **Native Andriod Apps built by Me**
 4. Enable Install via USB 
 
 **2. Execution:-**
-- Running App From Andriod Studio
+- **Running App From Andriod Studio**
 1. Download the Zip file and extract the code
 2. Open Andriod Studio IDE
 3. Open New Project and select the folder in which code is extracted
@@ -29,6 +29,8 @@ This Repository contains the all the **Native Andriod Apps built by Me**
 9. Wait for Installation
 10. If Installation is Successful App will be present in Apps menu of mobile
 11. If Installation is Unsuccessful, Check the Andriod version Requiments and try again
+
+***(NOTE:- Do Not Disconnect The USB Connection When The App Is Being Installed)***
 
 ## ***Usage***
 This project does not restrict any user for its features, nor will it ask payment for its features. This project is **Free to Use** and can be used by any person globally
