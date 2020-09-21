@@ -29,3 +29,18 @@ This Repository contains the all the **Native Andriod Apps built by Me**
 9. Wait for Installation
 10. If Installation is Successful App will be present in Apps menu of mobile
 11. If Installation is Unsuccessful, Check the Andriod version Requiments and try again
+
+## ***Usage***
+This project does not restrict any user for its features, nor will it ask payment for its features. This project is **Free to Use** and can be used by any person globally
+
+## ***Contributing***
+Contact the Creator for contributing to project
+
+## *Creator:-*
+### *Chennakeshava NT*
+
+Certified Microsoft Technology Associate | Data Science Enthusiast
+
+Contact:- 
+- Mail:- [Chennakeshavant@gmail.com]
+- LinkedIn [Profile](https://www.linkedin.com/in/chennakeshavant/)
